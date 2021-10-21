@@ -1,0 +1,6 @@
+[submodule "plugin1"]
+	path = plugin1
+	url = git@github.com:amandadoughty/sp-plugin1.git
+[submodule "plugin2"]
+	path = plugin2
+	url = git@github.com:amandadoughty/sp-plugin2.git
